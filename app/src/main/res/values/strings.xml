@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ClobberApp</string>
+    <color name="white">#FFFFFF</color>
+    <color name="blue">#89CCFF</color>
+    <color name="orange">#FFA500</color>
+    <color name="darkBlue">#0033FF</color>
+
+
+</resources>

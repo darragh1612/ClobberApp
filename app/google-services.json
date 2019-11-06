@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "479720756452",
+    "firebase_url": "https://clobberapp-5e478.firebaseio.com",
+    "project_id": "clobberapp-5e478",
+    "storage_bucket": "clobberapp-5e478.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479720756452:android:120577d8ef203d31c188f1",
+        "android_client_info": {
+          "package_name": "com.clobber.clobberapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "479720756452-8i9ika53ch95s23ah0qtm85q55a6vrme.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.clobber.clobberapp",
+            "certificate_hash": "8566733092823a69dc6653d05e2a80bc5d45519b"
+          }
+        },
+        {
+          "client_id": "479720756452-pjt3lp4k0ejnj8l6jccg1n0i41a1cfja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8kF5gX36x5p-y0eFCE_-5a2isw9NwE3U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "479720756452-pjt3lp4k0ejnj8l6jccg1n0i41a1cfja.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
